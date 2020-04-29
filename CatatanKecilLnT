@@ -1,0 +1,21 @@
+Cara membuat Web Design:
+1) Pertama kali kita harus membuat file baru, lalu kita save menggunakan format HTML. 
+2) Kedua kita langsung saja menggunakan shortcut html:5, yang bisa dilihat dengan ctrl+space
+3) Kita membuat folder baru yang bernama asset, css, dan pages. Asset berisi semua gambar yang akan dimasukkan. CSS berisi semua file css yang nanti akan kita gunakan di dalam website kita. Pages berisi isi dari website kita.
+4) Membuat new file.html yang ditaruh di luar yang dapat diakses oleh folder lain sehingga saling berkesinambungan
+
+
+Fitur-fitur yang digunakan dalam web saya:
+1) HTML, singkatan dari Hyper Text Markup Language yang merupakan bahasa pemograman yang digunakan untuk membuat sebuah halaman web.
+2) CSS, singkatan dari Cascading Style Sheet merupakan bahasa yang digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup.
+3) Navbar adalah singkatan dari Navigation Bar adalah sebuah balok navigasi yang terletak di bagian atas halaman blog. Bentuknya horizontal dan ketika ketika kita klik salah satu menu pilihannya makanavbar akan mengirim keita sesuai dengan yang kita tuju.
+4) Form, form digunakan untuk membuat wadah bagi pengunjung website kita untuk mengisi data pribadi atau mengungkapkan keperluannya pada yang punya website. Form juga digunakan untuk login, pada Form kita dapat melakukan verifikasi user, mengecek apakah yang diinput user sesuai dengan apa yang pembuat website/pemilik website inginkan. Pada form terdapat kotak input yang dapat diedit atau diisi oleh pengunjung website.
+5) Jumbotron merupakan elemen yang digunakan untuk membuat pengumuman atau berita kepada pengunjung website
+6) Bootstrap merupakan sebuah library framework CSS yang telah dibuat khusus uintuk mengembangkan front end sebuah website. Bootstrap juga dikenal sebagai salah satu framework CSS, HTML, Javascript yang begitu populer di kalangan website developer atau pengembang website.
+7) Carousel pin yang berisi beberapa gambar. Carousel berisi berbagai fitur produk, mengiklankan beberapa produk sekaligus, atau menceritakan kisah merek Anda dalam beberapa bab.
+8) Media object merupakan bagian dari bootstrap layout yang berguna untuk menempatkan beberapa komponen dan media (seperti gambar, video dan lainnya) agar memiliki tata letak yang sejajar dengan konten-nya. Layout untuk objek media seperti ini, dimaksudkan untuk membuat stayle sejenis agar dapat digunakan secara berulang (terus-menerus) beberapa kali sesuai kebutuhan.
+9) Verifikasi phone number, phone number yang dimasukkan harus 12 digit jika tidak maka tidak dapat di submit.
+
+Fitur CSS:
+1) Membuat html, body lalu mengisinya dengan margin 0 dan padding 0 untuk mereset semua setingan awal sehingga semuanya sesuai dengan apa yang nanti akan kita masukkan.
+2) Border radius, border radiusdapat membuat gambar yang kita inginkan berbentuk lonjong, bulat, atau lainnya.
